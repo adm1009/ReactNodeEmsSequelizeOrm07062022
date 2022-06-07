@@ -1,0 +1,32 @@
+[
+  {
+    "user": "root",
+    "host": "localhost",
+    "password": "password",
+    "database": "logindata"
+  },
+  {
+    "user": "root",
+    "host": "localhost",
+    "password": "password",
+    "database": "birthday"
+  },
+  {
+    "user": "root",
+    "host": "localhost",
+    "password": "password",
+    "database": "personaldetails"
+  },
+  {
+    "user": "root",
+    "host": "localhost",
+    "password": "password",
+    "database": "leavedetails"
+  },
+  {
+    "user": "root",
+    "host": "localhost",
+    "password": "password",
+    "database": "employeedetails"
+  }
+]
